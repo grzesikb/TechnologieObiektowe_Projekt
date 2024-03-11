@@ -3,7 +3,7 @@
 
 Projekt z przedmiotu Technologie obiektowe 4 rok PSK
 
-Temet: 
+Temat: 
 Platform as a service (PaaS)
 
 Opis:
@@ -11,7 +11,7 @@ W części teoretycznej powinno znaleźć się porównanie Amazon Web Services (
 
 
 
-## Roadmap - Harmonorgam 
+##  Harmonorgam 
 
 - Opracowanie założeń
 
@@ -19,24 +19,30 @@ W części teoretycznej powinno znaleźć się porównanie Amazon Web Services (
 
 - Badanie i analiza platform chmurowych
 
-- Wybór platformy i opracowanie koncepcji aplikacji
+- Wybór platformy i opracowanie koncepcji aplikacji (Azure)
 
-- Projektowanie i tworzenie aplikacji 
+- Projektowanie aplikacji
 
-- Dokumentacja i prezentacj
+- Implementacja aplikacji
 
+- Dokumentacja aplikacji
 
-
-
-## Authors
+## Autorzy
 
 - [@PwGawzynski(Paweł Gawżyński)](https://github.com/PwGawzynski)
 - [@grzesikb(Bartłomiej Grzesiki)](https://github.com/grzesikb)
 
-## Features
+
+## Technologie
+
+- Python, FastApi - backend
+- Typescript, React - frontend
+
+## Cechy i funkcje
 
 - Do ustalenia :) 
 
-## Podził prac 
+## Podział pracy
 
-- do ustalenia ( jak ustalone zostaną szczegóły aplikacji  )
+- Paweł Gawżyński - backend
+- Bartłomiej Grzesik - frontend
