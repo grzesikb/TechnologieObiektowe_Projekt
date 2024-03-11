@@ -1,7 +1,10 @@
 
-# Technologie obiektowe Projekt
+# Technologie obiektowe - Projekt
 
-Projekt z przedmiotu Technologie obiektowe 4 rok PSK
+Politechnika Świętokrzyska w Kielcach
+Wydział Elektrotechniki, Automatyki i Informatyki
+Studia 2 stopnia, Informatyka
+Projekt z przedmiotu Technologie obiektowe 
 
 Temat: 
 Platform as a service (PaaS)
@@ -9,7 +12,7 @@ Platform as a service (PaaS)
 Opis:
 W części teoretycznej powinno znaleźć się porównanie Amazon Web Services (http://aws.amazon.com/), Windows Azure (https://azure.microsoft.com/) oraz Google App Engine (https://appengine.google.com/). W ramach części praktycznej powinna zostać opracowana aplikacja wykorzystująca jedno z wspomnianych rozwiązań, np. Google App Engine.
 
-
+Aplikacja: Evento do zarządzania wydarzeniami.
 
 ##  Harmonorgam 
 
@@ -40,7 +43,15 @@ W części teoretycznej powinno znaleźć się porównanie Amazon Web Services (
 
 ## Cechy i funkcje
 
-- Do ustalenia :) 
+Evento (Events Manager) to aplikacja umożliwiająca zamawianie i zarządzanie imprezami. Dzięki niej użytkownicy mogą łatwo zamawiać różnego rodzaju imprezy - publiczne, prywatne oraz okolicznościowe - poprzez wprowadzanie spersonalizowanych danych. Aplikacja umożliwia również edycję i przechowywanie zamówień użytkownika oraz płatności. 
+
+Dla pracowników aplikacji Evento udostępnione są funkcje takie jak wystawianie wycen wydarzeń, tworzenie faktur, akceptowanie danych zamówień oraz przeglądanie i edycja zamówień. Dzięki temu pracownicy mają pełną kontrolę nad procesem organizacji imprez i mogą dostosować zamówienia do potrzeb klientów.
+
+Ponadto, w aplikacji istnieje również konto administratora, które umożliwia dodawanie nowych pracowników. To daje możliwość skutecznego zarządzania personelem i zapewnia elastyczność w rozwoju i rozbudowie zespołu.
+
+Evento to prosty w obsłudze interfejs, który umożliwia użytkownikom wygodne zamawianie imprez, a pracownikom efektywne zarządzanie zamówieniami i procesem organizacji. Dzięki tej aplikacji organizacja imprez staje się łatwiejsza i bardziej efektywna.
+
+Aplikacja została stworzona dla danego klienta który wymyślił sobie różne funkcjonalności.
 
 ## Podział pracy
 
