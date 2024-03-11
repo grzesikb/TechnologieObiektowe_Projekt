@@ -33,7 +33,7 @@ Aplikacja: Evento do zarządzania wydarzeniami.
 ## Autorzy
 
 - [@PwGawzynski(Paweł Gawżyński)](https://github.com/PwGawzynski)
-- [@grzesikb(Bartłomiej Grzesiki)](https://github.com/grzesikb)
+- [@grzesikb(Bartłomiej Grzesik)](https://github.com/grzesikb)
 
 
 ## Technologie
