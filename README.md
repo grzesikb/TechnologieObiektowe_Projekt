@@ -57,3 +57,4 @@ Aplikacja została stworzona dla danego klienta który wymyślił sobie różne 
 
 - Paweł Gawżyński - backend
 - Bartłomiej Grzesik - frontend
+- Paweł Gawżyński i Bartłomiej Grzesik - usługi chmurowe (Azure)
